@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-22311975 박훈서
+# Introduction 
+영남대학교 컴퓨터공학과 (2023.3.2 ~ 재학중)
