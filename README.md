@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Introduction 
-영남대학교 컴퓨터공학과 (2023.3.2 ~ 재학중)
+영남대학교 컴퓨터공학과 2학년 (2023.3.2 ~ 재학중)
 # Email
 phs8707@naver.com
 # Studying
